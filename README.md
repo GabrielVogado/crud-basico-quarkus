@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# crud-basico-quarkus
 Um Crud Basico utilizando Quarkus
 =======
 # crud-quarkus Project
