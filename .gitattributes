@@ -34,4 +34,18 @@
 *.jks           binary
 
 *.java linguist-language=Java
+
+*.html linguist-language=html
 *.rb linguist-language=Java
+
+*.kicad_pcb linguist-detectable=true
+*.sch linguist-detectable=true
+tools/export_bom.py linguist-detectable=false
+
+Api.elm linguist-generated=true
+
+special-vendored-path/* linguist-vendored
+jquery.js linguist-vendored=false
+
+project-docs/* linguist-documentation
+docs/formatter.rb linguist-documentation=false
