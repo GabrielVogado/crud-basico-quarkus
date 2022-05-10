@@ -34,5 +34,4 @@
 *.jks           binary
 
 *.java linguist-language=Java
-*.java linguist-language=false
 *.rb linguist-language=Java
