@@ -34,4 +34,9 @@
 *.jks           binary
 
 *.java linguist-language=Java
+*.java linguist-language=true
 *.rb linguist-language=Java
+
+*.kicad_pcb linguist-detectable=true
+*.sch linguist-detectable=true
+tools/export_bom.py linguist-detectable=false
