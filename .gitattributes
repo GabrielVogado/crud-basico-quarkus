@@ -1,4 +1,17 @@
 *.java linguist-detectable=true
-*.js linguist-vendored=true
-*.html linguist-vendored=true
+*.js linguist-detectable=false
+*.html linguist-detectable=false
 *.xml linguist-detectable=false
+
+mvnw.cmd linguist-generated=true
+mvnw linguist-generated=true
+*/.mvnw linguist-generated = true
+
+
+* linguist-vendored
+*.js linguist-vendored=false
+
+README.md linguist-documentation=true
+
+*.rb linguist-language=Java
+
